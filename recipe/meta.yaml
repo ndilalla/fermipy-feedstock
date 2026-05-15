@@ -104,14 +104,6 @@ requirements:
 test:
   imports:
     - fermipy
-  # requires:
-  #   - pytest
-  #   - pytest-cov
-  #   - fermitools >=2.1
-  # source_files:
-  #   - fermipy/
-  # commands:
-  #   - python -m pytest --cov=./fermipy --cov-report=xml fermipy
 
 about:
   home: https://github.com/fermiPy/fermipy
